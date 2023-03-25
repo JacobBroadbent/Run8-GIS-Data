@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "r8Sidings",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Woodland", "MP": 781.1, "LENGTH": 10361.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S1" ] }, "geometry": { "type": "Point", "coordinates": [ -84.559811524535903, 32.800766515084426 ] } },
+{ "type": "Feature", "properties": { "NAME": "Talbotton", "MP": 769.0, "LENGTH": 6314.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S2" ] }, "geometry": { "type": "Point", "coordinates": [ -84.53654919938927, 32.67482972303678 ] } },
+{ "type": "Feature", "properties": { "NAME": "Brownsand", "MP": 760.0, "LENGTH": 10419.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S3" ] }, "geometry": { "type": "Point", "coordinates": [ -84.44465573181229, 32.57322049802508 ] } },
+{ "type": "Feature", "properties": { "NAME": "Ideal", "MP": 735.2, "LENGTH": 11223.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S4" ] }, "geometry": { "type": "Point", "coordinates": [ -84.171325859489031, 32.372158409435045 ] } },
+{ "type": "Feature", "properties": { "NAME": "Oglethorpe Yard", "MP": 728.0, "LENGTH": 5180.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S5" ] }, "geometry": { "type": "Point", "coordinates": [ -84.061330461800054, 32.299348886530346 ] } },
+{ "type": "Feature", "properties": { "NAME": "Dooling", "MP": 718.4, "LENGTH": 10744.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S6" ] }, "geometry": { "type": "Point", "coordinates": [ -83.925670491379577, 32.223915851064667 ] } },
+{ "type": "Feature", "properties": { "NAME": "Lilly", "MP": 710.0, "LENGTH": 6176.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S7" ] }, "geometry": { "type": "Point", "coordinates": [ -83.880345434784473, 32.148914522877178 ] } },
+{ "type": "Feature", "properties": { "NAME": "Ross", "MP": 697.4, "LENGTH": 14485.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S8" ] }, "geometry": { "type": "Point", "coordinates": [ -83.8141915145452, 31.994570077523832 ] } },
+{ "type": "Feature", "properties": { "NAME": "Cordele", "MP": 693.0, "LENGTH": 9959.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S9" ] }, "geometry": { "type": "Point", "coordinates": [ -83.767249968464185, 31.967048201188813 ] } },
+{ "type": "Feature", "properties": { "NAME": "Cordele Storage", "MP": 694.6, "LENGTH": 2898.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S10" ] }, "geometry": { "type": "Point", "coordinates": [ -83.778987224085384, 31.970101196510686 ] } },
+{ "type": "Feature", "properties": { "NAME": "Hatley", "MP": 679.0, "LENGTH": 11239.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S11" ] }, "geometry": { "type": "Point", "coordinates": [ -83.624735755518188, 31.907842357893337 ] } },
+{ "type": "Feature", "properties": { "NAME": "Rebecca", "MP": 672.0, "LENGTH": 9524.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S12" ] }, "geometry": { "type": "Point", "coordinates": [ -83.481186230351142, 31.802592703346043 ] } },
+{ "type": "Feature", "properties": { "NAME": "Fitzgerlad Yard", "MP": 659.5, "LENGTH": 9153.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S13" ] }, "geometry": { "type": "Point", "coordinates": [ -83.280759148129846, 31.727618044432621 ] } },
+{ "type": "Feature", "properties": { "NAME": "Oiserfield", "MP": 650.0, "LENGTH": 11080.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S14" ] }, "geometry": { "type": "Point", "coordinates": [ -83.138092987700603, 31.675026353443116 ] } },
+{ "type": "Feature", "properties": { "NAME": "Upton", "MP": 631.4, "LENGTH": 7663.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S15" ] }, "geometry": { "type": "Point", "coordinates": [ -82.887106867354802, 31.516141367694313 ] } },
+{ "type": "Feature", "properties": { "NAME": "Douglas - Handthrows", "MP": 628.8, "LENGTH": 0.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S16" ] }, "geometry": { "type": "Point", "coordinates": [ -82.843920863892237, 31.505165261301176 ] } },
+{ "type": "Feature", "properties": { "NAME": "Saginaw", "MP": 619.4, "LENGTH": 10423.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S17" ] }, "geometry": { "type": "Point", "coordinates": [ -82.702131915941933, 31.513000058497543 ] } },
+{ "type": "Feature", "properties": { "NAME": "Sessoms", "MP": 613.1, "LENGTH": 10423.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S18" ] }, "geometry": { "type": "Point", "coordinates": [ -82.591405034984021, 31.51556231613991 ] } },
+{ "type": "Feature", "properties": { "NAME": "Bolen", "MP": 602.1, "LENGTH": 10781.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S19" ] }, "geometry": { "type": "Point", "coordinates": [ -82.472837885752227, 31.400793623989721 ] } },
+{ "type": "Feature", "properties": { "NAME": "Fields", "MP": 722.8, "LENGTH": 0.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S20" ] }, "geometry": { "type": "Point", "coordinates": [ -83.992101959188219, 32.269933089481924 ] } },
+{ "type": "Feature", "properties": { "NAME": "Campground", "MP": 797.2, "LENGTH": 6896.0, "MP_PREFIX": "ANJ", "OBJECTID": [ "S21" ] }, "geometry": { "type": "Point", "coordinates": [ -84.731561704272735, 32.907639219456165 ] } },
+{ "type": "Feature", "properties": { "NAME": "Woodbury", "MP": 797.8, "LENGTH": 4638.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S22" ] }, "geometry": { "type": "Point", "coordinates": [ -84.583352511009679, 32.97530994227661 ] } },
+{ "type": "Feature", "properties": { "NAME": "Gay", "MP": 806.8, "LENGTH": 6893.0, "MP_PREFIX": null, "OBJECTID": [ "S23" ] }, "geometry": { "type": "Point", "coordinates": [ -84.572692240391589, 33.089307395683434 ] } },
+{ "type": "Feature", "properties": { "NAME": "Mauk Storage", "MP": 754.6, "LENGTH": 0.0, "MP_PREFIX": "ANB", "OBJECTID": [ "S24" ] }, "geometry": { "type": "Point", "coordinates": [ -84.42030480142823, 32.501919648040293 ] } }
+]
+}
