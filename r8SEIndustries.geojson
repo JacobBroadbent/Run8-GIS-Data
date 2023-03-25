@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "industries",
+"name": "r8SEIndustries",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "TAG": "NAG", "SYMBOL": "COR A730", "NAME": "Nutrien AG Solutions", "MILEPOST": 695.4, "OBJECTID": "I1" }, "geometry": { "type": "Point", "coordinates": [ -83.792640921746781, 31.973042599257894 ] } },
