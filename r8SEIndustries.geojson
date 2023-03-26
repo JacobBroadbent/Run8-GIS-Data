@@ -47,6 +47,7 @@
 { "type": "Feature", "properties": { "TAG": "WFS", "SYMBOL": "FIT A726", "NAME": "Waldrom Farm Services", "MP": 628.7, "OBJECTID": "I42" }, "geometry": { "type": "Point", "coordinates": [ -82.843354619025007, 31.503901272451241 ] } },
 { "type": "Feature", "properties": { "TAG": "WFI", "SYMBOL": "FIT A726", "NAME": "West Fraser Industries", "MP": 654.6, "OBJECTID": "I43" }, "geometry": { "type": "Point", "coordinates": [ -83.208686903808115, 31.705222829429882 ] } },
 { "type": "Feature", "properties": { "TAG": "SMI", "SYMBOL": "FIT A726", "NAME": "Shapro Metals", "MP": 654.6, "OBJECTID": "I44" }, "geometry": { "type": "Point", "coordinates": [ -83.205609147327223, 31.70205925599716 ] } },
-{ "type": "Feature", "properties": { "TAG": "SVP", "SYMBOL": "FIT A726", "NAME": "Southern Veneer Products", "MP": 654.0, "OBJECTID": "I45" }, "geometry": { "type": "Point", "coordinates": [ -83.199980786331906, 31.699437237688258 ] } }
+{ "type": "Feature", "properties": { "TAG": "SVP", "SYMBOL": "FIT A726", "NAME": "Southern Veneer Products", "MP": 654.0, "OBJECTID": "I45" }, "geometry": { "type": "Point", "coordinates": [ -83.199980786331906, 31.699437237688258 ] } },
+{ "type": "Feature", "properties": { "TAG": "ACE", "SYMBOL": "WAX A768", "NAME": "ACE Pole", "MP": 580.5, "OBJECTID": null }, "geometry": { "type": "Point", "coordinates": [ -82.29672528699939, 31.257914890502811 ] } }
 ]
 }
