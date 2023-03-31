@@ -67,6 +67,10 @@
 { "type": "Feature", "properties": { "NAME": "Industry Lead", "MP": 725.0, "MP_PREFIX": "ANB", "OBJECTID": [ "P62" ] }, "geometry": { "type": "Point", "coordinates": [ -84.010920185261895, 32.294396888587578 ] } },
 { "type": "Feature", "properties": { "NAME": "Osierfield House Track", "MP": 648.8, "MP_PREFIX": "ANB", "OBJECTID": [ "P63" ] }, "geometry": { "type": "Point", "coordinates": [ -83.114020402383233, 31.666555380873145 ] } },
 { "type": "Feature", "properties": { "NAME": "S Ross", "MP": 696.2, "MP_PREFIX": "ANB", "OBJECTID": [ "P64" ] }, "geometry": { "type": "Point", "coordinates": [ -83.804963751946218, 31.979570941163583 ] } },
-{ "type": "Feature", "properties": { "NAME": "Ruskin", "MP": 594.9, "MP_PREFIX": "ANB", "OBJECTID": [ ] }, "geometry": { "type": "Point", "coordinates": [ -82.45972305033024, 31.145066706879099 ] } }
+{ "type": "Feature", "properties": { "NAME": "Ruskin", "MP": 594.9, "MP_PREFIX": "ANB", "OBJECTID": [ ] }, "geometry": { "type": "Point", "coordinates": [ -82.45972305033024, 31.145066706879099 ] } },
+{ "type": "Feature", "properties": { "NAME": "North Ludowici", "MP": 533.4, "MP_PREFIX": "A", "OBJECTID": [ ] }, "geometry": { "type": "Point", "coordinates": [ -81.688186880777735, 31.740935575084912 ] } },
+{ "type": "Feature", "properties": { "NAME": "Backswamp", "MP": 540.1, "MP_PREFIX": "A", "OBJECTID": [ ] }, "geometry": { "type": "Point", "coordinates": [ -81.785530591499281, 31.688722035724538 ] } },
+{ "type": "Feature", "properties": { "NAME": "Ludowici Storage", "MP": null, "MP_PREFIX": "573.4", "OBJECTID": [ ] }, "geometry": { "type": "Point", "coordinates": [ -81.747430214809455, 31.709219190951007 ] } },
+{ "type": "Feature", "properties": { "NAME": "Doctortown", "MP": 534.6, "MP_PREFIX": "A", "OBJECTID": [ ] }, "geometry": { "type": "Point", "coordinates": [ -81.829570789154246, 31.65282790608066 ] } }
 ]
 }
